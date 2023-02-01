@@ -8,6 +8,10 @@ This package tries to download those binaries with `npm`. It is sometimes used b
 
 <br/>
 
+## Why a prima implementation
+This is a prima implementation of the original elm npm installer which adds the possibility to install our custom elm compiler built for linux arm64 as its not provided by original elm-compiler project.
+The Mac arm64 version is just a copy (renamed) of the original x86 version but it should run seamlessly.
+
 
 ## Install
 
